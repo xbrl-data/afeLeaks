@@ -278,7 +278,7 @@ shiny::shinyApp(
       ),
       
       # custom shinyWidgets skins
-      chooseSliderSkin("Round"),
+      #chooseSliderSkin("Round"),
       
       # use shinyEffects
       setShadow(class = "galleryCard"),
@@ -3878,5 +3878,5 @@ shiny::shinyApp(
       
     })
     
-  }
-)
+  
+
